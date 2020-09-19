@@ -61,3 +61,4 @@ function remove_item () {
   total -= price;
   showTotal(total);
 }
+
